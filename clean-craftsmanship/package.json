@@ -1,0 +1,17 @@
+{
+  "name": "clean-craftsmanship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stack.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^28.1.6",
+    "jest": "^28.1.3"
+  }
+}
